@@ -1,5 +1,5 @@
 # AI-MOST Webpage
-<h1 id="ai-most-webpage">AI-MOST = AI, Metaheuristics, and Optimization for Science and Technology </h1>
+<h2 id="ai-most-webpage">AI-MOST = AI, Metaheuristics, and Optimization for Science and Technology </h1>
 
 <p>Xin-She Yang is <a href="https://en.wikipedia.org/wiki/Reader_(academic_rank)">Reader</a> in Modelling and Simulation as well as Optimization at Middlesex University London, with more than 25 years’ experience in teaching and research. He got his DPhil in Applied Mathematics from Mathematical Institute, University of Oxford in 1998. He then worked at Cambridge University Engineering Department and later as a Senior Research Scientist at Mathematics and Scientific Computing Division of UK’s National Physical Laboratory.</p>
 
@@ -22,26 +22,3 @@ numerical methods, data mining, and simulation tools.  He was the IEEE Computati
     x.yang (at) mdx.ac.uk 
   </sumary>
 </details>
-
-<h3 id="full-list-of-my-publications-can-be-found-at--google-scholar--research-gate-or-orcid">Full list of my publications can be found at  <a href="https://scholar.google.co.uk/citations?user=fA6aTlAAAAAJ">Google Scholar</a>,  <a href="https://www.researchgate.net/profile/Xin-She-Yang">Research Gate</a> or <a href="https://orcid.org/0000-0001-8231-5556">ORCID</a></h3>
-
-<h3 id="my-recent-books">My recent books:</h3>
-<ol>
-  <li><a href="https://www.sciencedirect.com/book/9780443140846/engineering-simulation-and-its-applications">Engineering Simulation and its Applications: Algorithms and Numerical Methods</a> Academic Press/Elsevier, (2024)</li>
-  <li><a href="https://www.sciencedirect.com/book/9780128172162/introduction-to-algorithms-for-data-mining-and-machine-learning">Introduction to Algorithms for Data Mining and Machine Learning</a> Academic Press/Elsevier, (2019)</li>
-  <li><a href="https://shop.elsevier.com/books/nature-inspired-optimization-algorithms/yang/978-0-12-821986-7">Nature-Inspired Optimization Algorithms</a> Second Edition, Academic Press, (2020)</li>
-  <li><a href="https://www.jstor.org/stable/jj.12638999">Mathematics for Civil Engineers: An Introduction</a> Liverpool University Press/Dunedin Academic Press, (2018)</li>
-  <li><a href="https://www.sciencedirect.com/book/9780128097304/engineering-mathematics-with-examples-and-applications">Engineering Mathematics with Examples and Applications</a> Academic Press/Elsevier, (2017)</li>
-</ol>
-
-
-      
-      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-        This site is open source. <a href="https://github.com/xin-she/web/edit/main/README.md">Improve this page</a>.
-      </div>
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
-</html>
