@@ -1,45 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>web</title>
-<meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="web" />
-<meta property="og:locale" content="en_US" />
-<link rel="canonical" href="https://xin-she.github.io/web/" />
-<meta property="og:url" content="https://xin-she.github.io/web/" />
-<meta property="og:site_name" content="web" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="web" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"web","name":"web","url":"https://ai-most.github.io/web/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/web/assets/css/style.css?v=34aa619ca54e6c9a49870f22ceb69afd76fdeb78">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/web/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://xin-she.github.io/web/">web</a></h1>
-      
-
-      <p><img src="/web/mylogo.png" alt="web" /></p>
+# AI-MOST Webpage
 <h1 id="ai-most-webpage">AI-MOST (AI, Metaheuristics, and Optimization for Science and Technology </h1>
 
 <p>Xin-She Yang is <a href="https://en.wikipedia.org/wiki/Reader_(academic_rank)">Reader</a> in Modelling and Simulation as well as Optimization at Middlesex University London, with more than 25 years’ experience in teaching and research. He got his DPhil in Applied Mathematics from Mathematical Institute, University of Oxford in 1998. He then worked at Cambridge University Engineering Department and later as a Senior Research Scientist at Mathematics and Scientific Computing Division of UK’s National Physical Laboratory.</p>
