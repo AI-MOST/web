@@ -1,5 +1,5 @@
 # AI-MOST Webpage
-<h1 id="ai-most-webpage">AI-MOST (AI, Metaheuristics, and Optimization for Science and Technology </h1>
+<h1 id="ai-most-webpage">AI-MOST = AI, Metaheuristics, and Optimization for Science and Technology </h1>
 
 <p>Xin-She Yang is <a href="https://en.wikipedia.org/wiki/Reader_(academic_rank)">Reader</a> in Modelling and Simulation as well as Optimization at Middlesex University London, with more than 25 years’ experience in teaching and research. He got his DPhil in Applied Mathematics from Mathematical Institute, University of Oxford in 1998. He then worked at Cambridge University Engineering Department and later as a Senior Research Scientist at Mathematics and Scientific Computing Division of UK’s National Physical Laboratory.</p>
 
