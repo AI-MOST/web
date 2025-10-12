@@ -1,6 +1,6 @@
 # AI-MOST Webpage
 
-<h2 id="ai-most-webpage">AI-MOST =International Association of AI, Metaheuristics, and Optimization for Science and Technology </h1>
+<h2 id="ai-most-webpage">AI-MOST =International Association of AI, Metaheuristics, and Optimization for Science and Technology </h2>
 
 <p>This web page is about the AI-MOST with information about scientific actitities such as Conferences and Workshops </p>
 
